@@ -1,0 +1,54 @@
+# Ítens de Pesquisa
+
+####### 1 #######
+
+- INTRODUÇÃO
+    - é última coisa que você faz no projeto
+    - sem apresentar detalhes e hipóteses
+    - mostrar apenas um conjunto de elementos
+
+- MARCO TEÓRICO / Teoria
+    - ponto de partida
+    - autores e fontes que iniciaram o trabalho 
+    - espaço teórico 
+
+####### 2 #######
+
+- PERGUNTA DE PESQUISA
+    - o que motiva a sua pesquisa
+    - questionamento inicial
+    - o que te fez querer sair do ponto A para o ponto B
+
+- HIPÓTESE / Tese
+    - o que voce acha, antes, da pesquisa
+    - pode se confirmar ou nao
+    - suposição
+    - afirmação
+
+####### 3 #######
+
+- OBJETIVOS GERAIS & ESPECÍFICOS
+
+    - ter 1 objetivo geral
+    - ter 1 objetivo específico
+    - o que se pretende com a esta pesquisa?
+    - contido, comedido, consciente    
+
+- JUSTIFICATIVA
+
+    - relevância
+    - pode conter elemento de novidade ou organização
+    - nem toda pesquisa se justifica
+
+
+####### 4 #######
+
+- RECORTE ESPAÇO-TEMPORAL
+    - contido, comedido, consciente
+    - local no tempo e no espaço em que está sua pesquisa
+    - foco e dominio
+
+- METODOLOGIA
+    - conjunto de ferramentas
+    - leitura bibliográfica não é metodologia
+    - design e confecção

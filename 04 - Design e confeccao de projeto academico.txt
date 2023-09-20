@@ -1,0 +1,42 @@
+>>> Design e Confecção de Projeto Academico
+
+# Design: Conceitos
+
+1 - proximidade
+2 - alinhamento
+3 - contraste
+
+# Um projeto de pesquisa acadêmica
+
+- introdução e marco teórico
+- pergunta de pesquisa e hipóteses
+- objetivo geral, específico e justificativa
+- recorte espaço-temporal e metodologia
+- cronograma e referências
+
+# Design Thinking
+
+1 - Empatizar
+2 - Definir
+3 - Idear (ideação)
+4 - Prototipar
+
+# Inovação e Pesquisa Acadêmica
+
+- O quanto é possível inovar?
+
+    Atente para:
+        - nivel de formação em que você se encontra
+        - diálogo com o orientador e com a comunidade
+        - relativização científica
+        - fake news
+        - desorganização e manipulação de resultados
+
+
+
+# Trabalho manual e Customização Aplicada
+
+Voltamos em Wright Mills:
+
+1 - seja um bom artesão, evite todo conjunto rígido de procedimentos
+2 - evite a estranheza bizantina de conceitos associados e desassociados, o maneirismo de verborragia (...)

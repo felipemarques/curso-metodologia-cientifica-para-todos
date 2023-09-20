@@ -1,0 +1,43 @@
+#Toolbox metodológico: Método qualitativo & Quantitativo
+
+- tem relação com os dados diretamente
+- qualitativo: se refere a qualidade
+- Quantitativo: se refere a quantidade , números, gráficos
+- posso juntar uma ferramenta qualitativa com uma quantitativa
+
+
+
+ex: censo demográfico
+    - numero de pessoas que moram numa determinada região
+
+# Na entrevista com alguma pessoa
+- posso colher informações diferentes
+
+
+Métodos QUALI1: Narrativas Orais
+
+1 - lugar de fala
+2 - entrevista
+3 - história oral
+4 - grupos focais
+
+Métodos QUALI2: Processos
+
+1 - etnografia e observação participante
+2 - trabalho de campo
+3 - cooperação e co-participação
+4 - process-tracing
+
+Métodos QUANTI1: Laboratório
+
+1 - experimento e replicação
+2 - teste, reteste e protótipo
+3 - concepção e projeto 
+4 - métodos laboratoriais 
+
+Métodos QUANTI2: Modelos
+
+1 - redesociais, big data
+2 - regressão
+3 - software aberto, mineração e imagética
+4 - teoria ator-rede
